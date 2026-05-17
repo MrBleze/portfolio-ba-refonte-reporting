@@ -1,4 +1,5 @@
 # 📋 Refonte de l'outil de reporting — Portefeuille crédit
+![Projet BA Reporting](screenshots/cover.jpg)
 
 > **Portfolio Project** | Business Analyst & Business Data Analyst Freelance  
 > Livrables : Expression des besoins · Spécifications fonctionnelles · Plan de recette UAT  
