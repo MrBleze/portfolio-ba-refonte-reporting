@@ -97,12 +97,11 @@ portfolio-ba-refonte-reporting/
 
 ## 👤 Auteur
 
-**[Ton Prénom Nom]**  
+**Bleze TCHALLA**  
 Business Data Analyst Freelance  
-Spécialité : Analyse métier · Spécifications fonctionnelles · Power BI · SQL  
-Références : TotalEnergies · ATR
+Spécialité : Analyse métier · Spécifications fonctionnelles · Power BI · SQL 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://linkedin.com/in/bleze-tchalla)
 
 ---
 
